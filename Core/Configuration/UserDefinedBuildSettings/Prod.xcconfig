@@ -1,0 +1,7 @@
+// Copyright © 2019 Nazariy Gorpynyuk.
+// All rights reserved.
+
+#include "Common.xcconfig"
+
+ENVIRONMENT = Prod
+APP_NAME = Punkr

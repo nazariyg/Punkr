@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Cartography (3.1.0)
+  - Kingfisher (5.5.0)
+  - R.swift (5.0.3):
+    - R.swift.Library (~> 5.0.0)
+  - R.swift.Library (5.0.1)
+  - ReactiveCocoa (9.0.0):
+    - ReactiveSwift (~> 5.0)
+  - ReactiveSwift (5.0.1):
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - SwiftLint (0.33.0)
+  - SwiftyBeaver (1.7.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Cartography (~> 3.0)
+  - Kingfisher (~> 5.0)
+  - R.swift
+  - ReactiveCocoa (= 9.0.0)
+  - ReactiveSwift (= 5.0.1)
+  - Result (= 4.1.0)
+  - SwiftLint
+  - SwiftyBeaver
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cartography
+    - Kingfisher
+    - R.swift
+    - R.swift.Library
+    - ReactiveCocoa
+    - ReactiveSwift
+    - Result
+    - SwiftLint
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Cartography: 1988b7578871a56c036e7af17195cb2190edf18c
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  R.swift: f5a87643b91ea569d23d6afb3eee9c743edde239
+  R.swift.Library: cfe85d569d9bae6cb262922db130e7c3a7a5fad1
+  ReactiveCocoa: 29709cf0cc7502ddd04a51220e10ee0336d8bec8
+  ReactiveSwift: cac20a5bbe560c5806bd29c0fccf90d03b996ac1
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SwiftLint: fed9c66336e41fc74dc48a73678380718f0c8b0e
+  SwiftyBeaver: 4cc0080d2e23f980652e28978db11a5c9da39165
+
+PODFILE CHECKSUM: 68e814f17a05765246c3c377f64160cd2fe2f367
+
+COCOAPODS: 1.6.0.beta.1
